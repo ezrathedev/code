@@ -1,1 +1,1 @@
-array = [car,go,fast];
+var array = ['car','go','fast'];
