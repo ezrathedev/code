@@ -1,0 +1,1 @@
+array = [car,go,fast];
